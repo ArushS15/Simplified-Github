@@ -48,6 +48,3 @@ A terminal-based version control system (VCS) implementation in C++ that mimics 
 - **Language**: C++17
 - **Hash Algorithm**: SHA-1 (provided implementation)
 - **Memory Management**: Manual dynamic allocation/deallocation
-### Compilation
-```bash
-make
