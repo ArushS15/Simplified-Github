@@ -2,7 +2,7 @@
 
 A terminal-based version control system (VCS) implementation in C++ that mimics core GitHub-like functionality, including user management, repositories, branches, commits, pull requests, forks, and merge strategies.
 
-## 🚀 Features
+## Features
 
 ### User Management
 - Register new users with unique usernames
