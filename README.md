@@ -42,7 +42,7 @@ A terminal-based version control system (VCS) implementation in C++ that mimics 
 - **Pull Requests**: Dynamic array (sorted by ID)
 - **Forks**: Dynamic array (sorted by owner + repository name)
 
-## 🛠️ Technical Details
+## Technical Details
 
 ### Language & Tools
 - **Language**: C++17
